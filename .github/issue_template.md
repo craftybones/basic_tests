@@ -1,13 +1,14 @@
-## Title
-
 As a _role_
 
 I want to _action_
 
 So that I may _reason_
 
+**Additional Details**
 
-### Acceptance Criteria
+Use this section if you have any additional things to say that don't fit the _As a ..., I want to ..._ format
+
+**Acceptance Criteria**
 
 - [ ] Criteria 1
   - Given _assumption_
